@@ -54,11 +54,11 @@ Calculation:
 
 a.   KVL:
  
+[beee1.pdf](https://github.com/user-attachments/files/25891188/beee1.pdf)
 
 
 b.  KCL:
 
-[OUTPUT](beee1.pdf)
 
 
 Tabulation:
