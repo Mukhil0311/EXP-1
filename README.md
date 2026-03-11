@@ -58,7 +58,7 @@ a.   KVL:
 
 b.  KCL:
 
-
+[OUTPUT](beee1.pdf)
 
 
 Tabulation:
