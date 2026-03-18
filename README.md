@@ -54,11 +54,11 @@ Calculation:
 
 a.   KVL:
  
-![image](
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/Mukhil0311/EXP-1/blob/main/Screenshot_2026_0318_110921.png)
+![image](https://github.com/Mukhil0311/EXP-1/blob/main/Screenshot_2026_0318_111013.png)
+![image](https://github.com/Mukhil0311/EXP-1/blob/main/beee1_1.jpg)
+![image](https://github.com/Mukhil0311/EXP-1/blob/main/beee1_2.jpg)
+![image](https://github.com/Mukhil0311/EXP-1/blob/main/beee1_3.jpg)
 
 
 
