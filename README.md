@@ -54,7 +54,7 @@ Calculation:
 
 a.   KVL:
  
-[beee1.pdf](https://github.com/user-attachments/files/25891188/beee1.pdf)
+![beee1](https://github.com/Mukhil0311/EXP-1/blob/main/beee1.pdf)
 
 
 b.  KCL:
